@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 - [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:mridul.dgp2015@gmail.com)](mailto:mridul.dgp2015@gmail.com)
 - [![Telegram Badge](https://img.shields.io/badge/-@mridul4101-c14438?style=social&logo=Telegram&logoColor=blue&link=https://twitter.com/mridul4101/)](https://twitter.com/mridul4101/)
 
-![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=mridul4101&show_icons=true&hide_border=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mridul4101&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mridul4101&show_icons=true&hide_border=true&hide_langs_below=1" />
