@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 🔭 I’m currently working as:
-- blockchain developer intern at Era Swap Technologies (July 2020 - Present). 
+- blockchain developer intern at Era Swap Technologies (July 2020 - Dec 2020). 
 
 🌱 I’m currently learning:
 - blockchain & building decentralized stuff, working on dapp development.
