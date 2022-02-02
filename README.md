@@ -20,13 +20,17 @@ Here are some ideas to get you started:
 
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-🔭 I’m currently working as:
+🔭 My working experience:
 - blockchain developer intern at Era Swap Technologies (July 2020 - Dec 2020). 
 
 🌱 I’m currently learning:
-- blockchain & building decentralized stuff, working on dapp development.
-- web development & working on my frontend-development skills.
-- DSA & improving my CP skills.
+- full-stack web development.
+- brushing my DSA knwoledge & CP skills.
+
+💬 Previously worked on:
+- smart contract designing using Solidity
+- web3 frameworks: ethers JS
+- built decentralized stuff (DApps) on blockchain
 
 📫 How to reach me:
 - [![Linkedin Badge](https://img.shields.io/badge/-MridulDey-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/mridul-dey-04012001/)](https://www.linkedin.com/in/mridul-dey-04012001/)
