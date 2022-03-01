@@ -9,9 +9,9 @@
 - current interning as frontend web developer at Camp Yellow (Feb 2022 - present).
 - blockchain developer intern at Era Swap Technologies (July 2020 - Dec 2020). 
 
-#### 🌱 I’m currently learning:
+<!-- #### 🌱 I’m currently learning:
 - full-stack web development.
-- brushing my DSA knwoledge & CP skills.
+- brushing my DSA knwoledge & CP skills. -->
 
 #### 💬 Have experience working on:
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
