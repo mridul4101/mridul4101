@@ -3,7 +3,7 @@
 ## Hi there 👋
 
 ### Welcome to my GitHub profile!
-#### I'm Mridul Dey, currently a sophomore at BIT Mesra, pursuing B.Tech in Computer Science and Engineering. I'm keen about new technologies and trying to learn them to build projects catering to real-world problems.
+#### I'm Mridul Dey, from BIT Mesra, CSE K19. My interests include competitive programming and web development. A vivid learner, keen about new technologies, a software developer in the making. Stuck in the puddle of never ending web development learning process, still trying to make something out of it.
 
 #### 🔭 My working experience:
 - current interning as frontend web developer at Camp Yellow (Feb 2022 - present).
