@@ -6,6 +6,7 @@
 #### I'm Mridul Dey, currently a sophomore at BIT Mesra, pursuing B.Tech in Computer Science and Engineering. I'm keen about new technologies and trying to learn them to build projects catering to real-world problems.
 
 🔭 My working experience:
+- current interning as frontend web developer at Camp Yellow (Fec 2022 - present).
 - blockchain developer intern at Era Swap Technologies (July 2020 - Dec 2020). 
 
 🌱 I’m currently learning:
