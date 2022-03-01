@@ -5,7 +5,7 @@
 ### Welcome to my GitHub profile!
 #### I'm Mridul Dey, from BIT Mesra, CSE K19. My interests include competitive programming and web development. A vivid learner, keen about new technologies, a software developer in the making. Stuck in the puddle of never ending web development learning process, still trying to make something out of it.
 
-#### 🔭 My working experience:
+#### 🔭 My work experience:
 - current interning as frontend web developer at Camp Yellow (Feb 2022 - present).
 - blockchain developer intern at Era Swap Technologies (July 2020 - Dec 2020). 
 
@@ -13,7 +13,7 @@
 - full-stack web development.
 - brushing my DSA knwoledge & CP skills. -->
 
-#### 💬 Have experience working on:
+#### 💬 Libraries/frameworks/tools known/familiar with:
 ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
