@@ -6,7 +6,8 @@
 #### I'm Mridul Dey, from BIT Mesra, CSE K19. My interests include competitive programming and web development. A vivid learner, keen about new technologies, a software developer in the making. Stuck in the puddle of never ending web development learning process, still trying to make something out of it.
 
 #### 🔭 My work experience:
-- web developer intern at Camp Yellow (Feb 2022 - Mar 2022).
+- summer analyst at Goldman Sachs (May 2022 - July 2022).
+- web developer intern at Micro (Mar 2022 - May 2022).
 - blockchain developer intern at Era Swap Technologies (July 2020 - Dec 2020). 
 
 <!-- #### 🌱 I’m currently learning:
